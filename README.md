@@ -1,6 +1,6 @@
 # DSC 110, Survey of Software Tools
 
-TechStack topics for computational (and data) scientists.  The list of topics (see topics folder) is incomplete.  The course was inspired by (i) a summer course run by [Dr. Ed Overman at Ohio State University](https://math.osu.edu/people/overman.2) and (ii) [MIT - The Missing Semester](https://missing.csail.mit.edu).
+TechStack topics for computational (and data) scientists.  The list of topics (see topics folder) is incomplete.  The course was inspired by (i) a summer course run by [Dr. Ed Overman at Ohio State University](https://math.osu.edu/people/overman.2) and (ii) [MIT - The Missing Semester](https://missing.csail.mit.edu). Edited from [dsc-techstack](https://github.com/jamesquinlan/dsc-techstack) by James Quinlan.
 
 
 ## Course description
