@@ -52,8 +52,8 @@ The `dev` branch is the project's default and base branch. It is used for develo
 #### Get code
 
 ```bash
-git clone https://github.com/jamesquinlan/dsc-techstack.git
-cd dsc-techstack
+git clone https://github.com/JPikowski/DSC-110.git
+cd DSC-110
 ```
 
 
