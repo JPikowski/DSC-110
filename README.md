@@ -1,31 +1,23 @@
-# DSC-TECHSTACK
+# DSC 110, Survey of Software Tools
 
 TechStack topics for computational (and data) scientists.  The list of topics (see topics folder) is incomplete.  The course was inspired by (i) a summer course run by [Dr. Ed Overman at Ohio State University](https://math.osu.edu/people/overman.2) and (ii) [MIT - The Missing Semester](https://missing.csail.mit.edu).
 
 
-
-
 ## Course description
 
-This course facilitates the development of proficiency with computational and data science tools. Critical elements of the computing ecosystem that could make workflows smoother and easier are covered. These topics include, but are not limited to, the command line, text editors, and version control systems. Mastering such tools enables one to become more efficient at problem-solving and provides unique knowledge and skills.
-
+This course facilitates the development of proficiency with the tools of computational and data science. Critical topics about the computing ecosystem that could make students’ lives significantly easier are covered. These topics include but are not limited to the command-line, the use of text editors, and version control systems. Students will spend hundreds of hours using these tools throughout their education (and possibly thousands over their careers). Mastering such tools enables students to be more efficient at the problem-solving process and provides unique knowledge and skills.
 
 
 ## Learning Outcomes
-After this course, students will be able to:
+After successful completion of this course, the student will:
 
-* navigate the file directory from the command line;
-* add, remove, and rename files and directories at the CLI;
-* clone a repository; add, commit, and push files to repository; create a pull request;
-* typeset mathematics;
-* develop a professional profile;
-* create, edit, and save text files;
-* obtain data from the website via web scraping;
-* visualize and manipulate geometrical objects;
-* perform basic data wrangling using R;
-* consider data ethics issues;
-* differentiate and integrate functions that cannot be done by hand; 
-* examine computer security and privacy issues.
+1. demonstrate benefits of virtual machines
+2. navigate directories using the command line and automate common computer tasks
+3. typeset basic mathematical notation
+4. use Git: initialize, clone, commit, push
+5. create a professional LinkedIn profile
+6. consider data ethics issues
+7. examine computer security and privacy issues
 
 
 
