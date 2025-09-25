@@ -1,4 +1,4 @@
-# DSC 110, Survey of Software Tools
+# DSC 110 - Survey of Software Tools
 
 TechStack topics for computational (and data) scientists.  The list of topics (see topics folder) is incomplete.  The course was inspired by (i) a summer course run by [Dr. Ed Overman at Ohio State University](https://math.osu.edu/people/overman.2) and (ii) [MIT - The Missing Semester](https://missing.csail.mit.edu). Edited from [dsc-techstack](https://github.com/jamesquinlan/dsc-techstack) by James Quinlan, Ph.D.
 
@@ -35,6 +35,21 @@ After successful completion of this course, the student will:
 11. [Markdown](topics/markdown.md)
 13. [Desmos](topics/desmos.md)
 12. [LinkedIn](topics/linkedin.md)
+
+1. VMs & Linux Distro
+2. Shell Commands
+3. Shell & Scripting
+4. Python & Colab
+5. R
+6. Markdown
+7. LaTeX
+8. Version Control (git)
+9. Github
+10. Data Ethics
+11. LinkedIn
+13. Desmos & GeoGebra
+12. Amazon AWS
+
 
 <!-- 3. [GitHub](topics/github.md) -->
 <!-- 6. [R](topics/r.md) -->
