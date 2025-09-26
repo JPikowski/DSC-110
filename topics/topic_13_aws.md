@@ -37,8 +37,7 @@ Amazon Lightsail is used for several reasons:
 In summary, Amazon Lightsail is a valuable tool for simplifying the deployment and management of virtual private servers, making it an excellent choice for those seeking a straightforward, cost-effective, and scalable solution for hosting web applications and websites.
 
 
-  
-![Creating an Account](image/aws1.jpg)
+![Creating an Account](images/aws1.jpg)
 
 
 ## Assignment Exercises
