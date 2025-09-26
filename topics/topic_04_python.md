@@ -9,6 +9,7 @@ This lesson plan covers the basics of Python programming, including installing P
 
 
 Verify that Python has been installed correctly using the python --version command.
+Or use Google Colab.
 
 
 ## Lesson 2: Basic Data Types and Variables

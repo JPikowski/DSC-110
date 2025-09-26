@@ -47,9 +47,7 @@ Virtual Machines (VMs), also called _hypervisors_, are software that extend the 
 
 Note: VMs are files. 
 
-# Pros and Cons
-
-
+<!-- # Pros and Cons -->
 
 
 #  Terminology
@@ -129,11 +127,9 @@ Click NEW in the VirtualBox Manager window (Figure 1).  A wizard will guide you 
 Select: name (make it meaningful), directory location of VMs, guest OS, and RAM (e.g., 4GB)
 
 
+![VM Setup](images/vm_setup.png)
 
-
-
-
-![Drag Racing](Dragster.jpg)
+![Working VM](images/working_vm.png)
 
 
 
@@ -143,10 +139,6 @@ Select: name (make it meaningful), directory location of VMs, guest OS, and RAM 
 * QEMU
 * Citrix Hypervisor
 * Microsoft Hyper-V
-
-
-
-
 
 
 

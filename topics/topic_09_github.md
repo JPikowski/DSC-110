@@ -69,7 +69,7 @@ Sign up for a new account from the home page [GitHub.com](http://github.com) by 
 
 #### **Step 1: Set up your account**
 
-Choose a GitHub **username**, provide an **email** address (make sure to use a legitimate email since you will be required to verify the account upon finalizing), and select a (strong) **password**.  See [guidelines for strong passwords](https://its.lafayette.edu/policies/strongpasswords/).
+Choose a GitHub **username**, provide an **email** address (make sure to use a legitimate email since you will be required to verify the account upon finalizing), and select a (strong) **password**.  See [guidelines for strong passwords](https://www.cisa.gov/secure-our-world/use-strong-passwords).
 
 [Set up account](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github)
 
@@ -699,7 +699,7 @@ Also, check **GitHub Gist**, which is an easy way to share your code, notes, or 
 
 **GitHub Pages** is a popular service for hosting web pages via GitHub. You can learn more about it here: [https://guides.github.com/features/pages/](https://guides.github.com/features/pages/)
 
-They also have official video guides, which you can find [on this link](https://www.youtube.com/githubguides).
+They also have official video guides, which you can find [on this link](https://www.youtube.com/github).
 
 
 
